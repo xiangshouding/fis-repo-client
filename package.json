@@ -1,6 +1,6 @@
 {
   "name": "fis-repo-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "fis-repo-client",
   "main": "fis-repo-client.js",
   "dependencies": {
@@ -12,8 +12,7 @@
     "adm-zip": "0.4.3",
     "async": "0.2.9",
 	  "ignore":"2.2.7",
-    "form-data": "~0.1.0",
-    "init-package-json": "0.0.15"
+    "form-data": "~0.1.0"
   },
   "devDependencies": {},
   "scripts": {
